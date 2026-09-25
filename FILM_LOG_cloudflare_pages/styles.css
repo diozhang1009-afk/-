@@ -970,6 +970,65 @@ input,select{appearance:none}
 .king-tienote{font-family:var(--sans);font-size:10px;color:var(--faint)}
 .king-empty-text{font-family:var(--serif);font-size:14px;color:var(--muted)}
 
+/* ---------- 当月观影统计（横向三段） ---------- */
+.monthstat{
+  margin-top:14px;
+  padding:20px 18px 22px;
+  border-top:1px solid var(--line);
+  text-align:center;
+}
+.ms-eyebrow{
+  font-family:var(--sans);
+  font-size:9px;
+  letter-spacing:.2em;
+  color:var(--faint);
+  text-transform:uppercase;
+  margin-bottom:20px;
+}
+.ms-row{
+  display:flex;
+  align-items:flex-start;
+  justify-content:center;
+  gap:0;
+}
+.ms-item{
+  flex:1 1 0;
+  min-width:0;
+  padding:0 10px;
+  position:relative;
+}
+/* 极细竖线分隔：贯穿整块内容高度，与数字+标签的视觉块居中对齐 */
+.ms-item + .ms-item::before{
+  content:'';
+  position:absolute;
+  left:0;
+  top:0;
+  bottom:0;
+  width:1px;
+  background:var(--line);
+}
+.ms-num{
+  font-family:var(--serif);
+  font-size:26px;
+  font-weight:400;
+  line-height:1;
+  color:var(--ink);
+  font-variant-numeric:tabular-nums;
+}
+.ms-label{
+  font-family:var(--sans);
+  font-size:9px;
+  letter-spacing:.16em;
+  color:var(--muted);
+  margin-top:9px;
+}
+@media (max-width:420px){
+  .monthstat{padding:18px 8px 20px}
+  .ms-item{padding:0 4px}
+  .ms-num{font-size:22px}
+  .ms-label{font-size:8px;letter-spacing:.1em}
+}
+
 /* ---------- 页脚 ---------- */
 .footer .foot-text{
   font-family:var(--sans);
@@ -1567,6 +1626,14 @@ details.raw pre{
 .preview .top3 .row .c{ color:var(--ink); font-weight:600; }
 
 /* ---------- 隐藏页内嵌：共同观影记录（位于弦图模块下方） ---------- */
+/* 隐藏页：观影数前三名排行 */
+.top3-sec{margin-top:46px;padding-top:8px}
+.top3-tip{font-family:var(--sans);font-size:13px;line-height:1.7;color:var(--muted);margin:0 0 16px}
+.top3-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.top3-list li{display:flex;align-items:center;gap:14px;padding:13px 16px;border:1px solid var(--line);border-radius:10px;background:var(--card,#fff)}
+.t3-rank{flex:0 0 26px;height:26px;line-height:26px;text-align:center;border-radius:50%;background:var(--ink,#1a1a1a);color:#fff;font-family:var(--serif);font-size:13px}
+.t3-name{font-family:var(--serif);font-size:17px;color:var(--ink,#1a1a1a);letter-spacing:.02em}
+.t3-cnt{margin-left:auto;font-family:var(--sans);font-size:13px;color:var(--muted)}
 .common-sec{margin-top:54px;padding-top:8px}
 .common-tip{font-family:var(--sans);font-size:13px;line-height:1.7;color:var(--muted);margin:0 0 22px}
 .common-pick{display:flex;align-items:flex-start;gap:10px;flex-wrap:wrap;margin-bottom:28px}

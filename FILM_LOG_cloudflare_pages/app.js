@@ -183,10 +183,11 @@ function seed(){
         "people": [
           "叶斯安德",
           "拎拎",
-          "三三得九",
+          "Robert_Gong",
           "火冋火冋",
-          "Furia Toby",
-          "宫致成_Robert"
+          "三三得九",
+          "三三得九的朋友",
+          "Furia Toby"
         ]
       }
     ],
@@ -264,11 +265,10 @@ function seed(){
         "people": [
           "shell",
           "安静的美人",
-          "我简直是个圣人",
+          "圣人",
           "663",
-          "🐰",
-          "火冋火冋",
-          "叶斯安德"
+          "2d9",
+          "Ryooo"
         ]
       }
     ],
@@ -294,17 +294,17 @@ function seed(){
       {
         "date": "2026-08-20",
         "people": [
-          "叶斯安德",
-          "海岛",
           "Ryooo",
+          "叶斯安德",
+          "乱步",
           "Furia Toby",
           "耐热",
           "2d9",
-          "Bittersuite",
+          "Bitter",
           "D",
           "安静的美人",
-          "Alex_",
           "Esja",
+          "Alex",
           "水镜",
           "子衿"
         ]
@@ -333,7 +333,7 @@ function seed(){
           "ayzz",
           "林三",
           "耐热",
-          "SHER"
+          "Sher"
         ]
       }
     ],
@@ -355,10 +355,10 @@ function seed(){
       {
         "date": "2026-08-21",
         "people": [
-          "安静电影型17",
+          "17",
           "663",
-          "SHER",
-          "Bittersuite",
+          "Sher",
+          "Bitter",
           "子衿",
           "三三得九",
           "Abracadabra",
@@ -388,7 +388,7 @@ function seed(){
           "耐热",
           "D",
           "三三得九",
-          "🐰",
+          "兔子",
           "火冋火冋",
           "2d9",
           "安静的美人",
@@ -416,7 +416,7 @@ function seed(){
         "people": [
           "耐热",
           "Harper",
-          "周旭威",
+          "周周周",
           "ayzz"
         ]
       }
@@ -441,12 +441,12 @@ function seed(){
         "people": [
           "盐井",
           "shell",
-          "Bittersuite",
-          "😴",
+          "Bitter",
+          "屋顶上的猫",
           "火山琉璃",
           "Chao",
           "水镜",
-          "我简直是个圣人"
+          "圣人"
         ]
       }
     ],
@@ -468,8 +468,8 @@ function seed(){
       {
         "date": "2026-09-01",
         "people": [
-          "Bittersuite",
-          "周旭威",
+          "Bitter",
+          "周周周",
           "叶斯安德",
           "一一"
         ]
@@ -496,7 +496,7 @@ function seed(){
         "people": [
           "火冋火冋",
           "D",
-          "cceeii_",
+          "cceeii",
           "三三得九",
           "cHAn",
           "子衿"
@@ -527,10 +527,10 @@ function seed(){
           "Esja",
           "D",
           "三三得九",
-          "安静电影型17",
-          "cceeii_",
-          "🐰",
-          "Alex_",
+          "17",
+          "cceeii",
+          "兔子",
+          "Alex",
           "Harper"
         ]
       }
@@ -555,7 +555,7 @@ function seed(){
         "date": "2026-09-02",
         "people": [
           "盐井",
-          "安静电影型17",
+          "17",
           "火山琉璃",
           "子衿",
           "于水水水",
@@ -601,7 +601,7 @@ function seed(){
           "拎拎",
           "Esja",
           "Harper",
-          "安静电影型17",
+          "17",
           "困困",
           "杠杠",
           "none"
@@ -629,10 +629,10 @@ function seed(){
           "Ryooo",
           "17",
           "林三",
-          "海岛",
-          "ト",
+          "乱步",
+          "卜",
           "三三得九",
-          "明天的盐（又名😴）",
+          "屋顶上的猫",
           "回溯性的断裂",
           "不吃香菜",
           "南柯",
@@ -646,11 +646,11 @@ function seed(){
         "people": [
           "火冋火冋",
           "D",
-          "Bittersuite",
+          "Bitter",
           "火山琉璃",
           "安静的美人",
           "Esja",
-          "🐰",
+          "兔子",
           "2d9"
         ]
       }
@@ -697,7 +697,7 @@ function seed(){
           "拎拎",
           "拎拎的朋友L",
           "拎拎的朋友T",
-          "Bittersuite",
+          "Bitter",
           "三三得九",
           "Anotherseasonwithu",
           "ZERO",
@@ -1010,12 +1010,12 @@ function seed(){
       {
         "date": "2026-04-22",
         "people": [
-          "海岛",
+          "乱步",
           "祝央苔",
-          "水果沙拉营养好",
-          "道长",
+          "浩哥爱蹲小木屋",
+          "小鹰",
           "水镜",
-          "A泛可陈陈🎥Ｉ📷",
+          "之尤",
           "观年",
           "于水水水"
         ]
@@ -1059,18 +1059,18 @@ function seed(){
       {
         "date": "2026-04-28",
         "people": [
-          "回溯性断裂",
+          "回溯性的断裂",
           "林三",
           "不吃香菜",
           "Ryooo",
-          "海岛",
-          "道长",
-          "水果沙拉营养好",
+          "乱步",
+          "小鹰",
+          "浩哥爱蹲小木屋",
           "阿来",
           "三三得九",
           "困困",
           "小新",
-          "模拟浓",
+          "MN",
           "水镜"
         ]
       }
@@ -1093,10 +1093,10 @@ function seed(){
         "people": [
           "于水水水",
           "水镜",
-          "模拟浓",
+          "MN",
           "三三得九",
-          "海岛",
-          "菜菜菜菜",
+          "乱步",
+          "菜菜",
           "南柯",
           "困困"
         ]
@@ -1119,7 +1119,7 @@ function seed(){
         "date": "2026-05-13",
         "people": [
           "林三",
-          "道长",
+          "小鹰",
           "盐井",
           "火山琉璃",
           "Ryooo",
@@ -1145,10 +1145,10 @@ function seed(){
       {
         "date": "2026-05-14",
         "people": [
-          "海岛",
-          "模拟浓",
-          "水果沙拉营养好",
-          "道长",
+          "乱步",
+          "MN",
+          "浩哥爱蹲小木屋",
+          "小鹰",
           "于水水水"
         ]
       }
@@ -1171,6 +1171,7 @@ function seed(){
         "people": [
           "拎拎",
           "盐井",
+          "拎拎朋友",
           "于水水水"
         ]
       }
@@ -1191,11 +1192,11 @@ function seed(){
       {
         "date": "2026-05-20",
         "people": [
-          "海岛",
+          "乱步",
           "shell",
           "于水水水",
           "徐心",
-          "道长"
+          "小鹰"
         ]
       }
     ],
@@ -1217,12 +1218,11 @@ function seed(){
         "people": [
           "林三",
           "绎凌",
-          "海岛",
-          "道长",
+          "乱步",
+          "小鹰",
           "阿来",
           "H.",
-          "小红",
-          "西西红柿🍅"
+          "西红柿"
         ]
       }
     ],
@@ -1242,10 +1242,10 @@ function seed(){
       {
         "date": "2026-05-30",
         "people": [
-          "水果沙拉营养好",
+          "浩哥爱蹲小木屋",
           "663",
           "残花",
-          "道长"
+          "小鹰"
         ]
       }
     ],
@@ -1269,7 +1269,7 @@ function seed(){
           "安静的美人",
           "盐井",
           "一头kuma在荡秋千",
-          "我简直是个圣人",
+          "圣人",
           "于水水水",
           "南柯"
         ]
@@ -1295,7 +1295,7 @@ function seed(){
           "林三",
           "2d9",
           "耐热",
-          "番茄",
+          "朱",
           "yu",
           "Esja",
           "三三得九",
@@ -1328,7 +1328,7 @@ function seed(){
           "加一个蛋",
           "Harper",
           "三三得九",
-          "安静电影型17",
+          "17",
           "yu",
           "shell"
         ]
@@ -1357,8 +1357,9 @@ function seed(){
           "叶斯安德",
           "D",
           "Harper",
-          "Bittersuite",
+          "Bitter",
           "盐井",
+          "盐井的朋友",
           "南柯"
         ]
       }
@@ -1382,18 +1383,18 @@ function seed(){
       {
         "date": "2026-07-28",
         "people": [
-          "林三",
           "火山琉璃",
-          "我简直是个圣人",
+          "林三",
+          "圣人",
           "竹雨",
           "Ryooo",
-          "Coconut🥥",
+          "coconut",
           "火冋火冋",
-          "啊圆仔仔",
+          "ayzz",
           "三三得九",
           "叶斯安德",
           "D",
-          "🐰"
+          "兔子"
         ]
       }
     ],
@@ -1415,9 +1416,9 @@ function seed(){
       {
         "date": "2026-07-29",
         "people": [
-          "海岛",
+          "乱步",
           "耐热",
-          "道长",
+          "小鹰",
           "盐井",
           "D",
           "Esja",
@@ -1442,17 +1443,17 @@ function seed(){
       {
         "date": "2026-07-30",
         "people": [
+          "回溯性的断裂",
           "林三",
           "Ryooo",
           "三三得九",
           "Harper",
           "Esja",
           "D",
-          "🐰",
+          "兔子",
           "火山琉璃",
-          "断裂",
           "卜",
-          "🤡"
+          "屋顶上的猫"
         ]
       }
     ],
@@ -1476,8 +1477,7 @@ function seed(){
           "林三",
           "三三得九",
           "猹咔咔",
-          "🐱",
-          "火山琉璃"
+          "屋顶上的猫"
         ]
       }
     ],
@@ -1504,8 +1504,7 @@ function seed(){
           "林三",
           "三三得九",
           "猹咔咔",
-          "🐱",
-          "火山琉璃"
+          "屋顶上的猫"
         ]
       }
     ],
@@ -1527,7 +1526,7 @@ function seed(){
       {
         "date": "2026-08-05",
         "people": [
-          "海岛",
+          "乱步",
           "shell",
           "之尤"
         ]
@@ -1553,17 +1552,18 @@ function seed(){
       {
         "date": "2026-08-06",
         "people": [
-          "🐰",
+          "兔子",
           "林三",
           "安静的美人",
           "火山琉璃",
-          "Bittersuite",
+          "Bitter",
           "D",
           "于水水水",
           "Esja",
           "Josh_Z",
-          "我简直是个圣人",
-          "Chao"
+          "圣人",
+          "Chao",
+          "美人的朋友"
         ]
       }
     ],
@@ -1589,11 +1589,11 @@ function seed(){
         "people": [
           "logos",
           "困困",
-          "Bittersuite",
+          "Bitter",
           "三三得九",
           "一头kuma在荡秋千",
           "shuyu",
-          "Alex_",
+          "Alex",
           "Akira"
         ]
       }
@@ -1617,9 +1617,9 @@ function seed(){
         "date": "2026-08-10",
         "people": [
           "2d9",
-          "啊圆仔仔",
+          "ayzz",
           "Harper",
-          "周旭威"
+          "周周周"
         ]
       }
     ],
@@ -1643,7 +1643,7 @@ function seed(){
         "date": "2026-08-11",
         "people": [
           "拎拎",
-          "啊圆仔仔",
+          "ayzz",
           "一头kuma在荡秋千"
         ]
       }
@@ -1669,7 +1669,7 @@ function seed(){
           "D",
           "之尤",
           "Esja",
-          "Alex_",
+          "Alex",
           "火山琉璃",
           "子衿"
         ]
@@ -1693,13 +1693,13 @@ function seed(){
       {
         "date": "2026-08-14",
         "people": [
-          "海岛",
+          "乱步",
           "一头kuma在荡秋千",
           "叶斯安德",
           "三三得九",
           "D",
           "拎拎",
-          "Bittersuite",
+          "Bitter",
           "Josh_Z"
         ]
       }
@@ -1722,10 +1722,9 @@ function seed(){
       {
         "date": "2026-08-15",
         "people": [
-          "SHER",
-          "river",
+          "Sher",
           "663",
-          "Bittersuite"
+          "Bitter"
         ]
       }
     ],
@@ -1747,16 +1746,16 @@ function seed(){
       {
         "date": "2026-08-17",
         "people": [
-          "叶斯安德",
-          "海岛",
           "安静的美人",
-          "于淼",
+          "叶斯安德",
+          "乱步",
+          "于水水水",
           "D",
           "Ryooo",
           "ayzz",
-          "Bittersuite",
+          "Bitter",
           "三三得九",
-          "番茄",
+          "朱",
           "Harper",
           "火冋火冋"
         ]
@@ -1781,7 +1780,7 @@ function seed(){
       {
         "date": "2026-08-18",
         "people": [
-          "🐰",
+          "兔子",
           "安静的美人",
           "2d9",
           "火山琉璃",
@@ -1813,7 +1812,7 @@ function seed(){
         "people": [
           "盐井",
           "D",
-          "Bittersuite"
+          "Bitter"
         ]
       }
     ],
@@ -1836,14 +1835,14 @@ function seed(){
       {
         "date": "2026-06-04",
         "people": [
-          "海岛",
+          "乱步",
           "浩哥爱蹲小木屋",
           "顾大白",
           "一头kuma在荡秋千",
           "林三",
           "663",
-          "A泛可陈陈🎥Ｉ📷",
-          "😴"
+          "之尤",
+          "屋顶上的猫"
         ]
       }
     ],
@@ -1869,7 +1868,7 @@ function seed(){
           "17",
           "663",
           "盐井",
-          "西西红柿🍅",
+          "西红柿",
           "拎拎"
         ]
       }
@@ -1891,8 +1890,9 @@ function seed(){
         "date": "2026-06-16",
         "people": [
           "水镜",
+          "水镜朋友",
           "拎拎",
-          "ト"
+          "卜"
         ]
       }
     ],
@@ -1932,7 +1932,7 @@ function seed(){
         "people": [
           "耐热",
           "林三",
-          "Josh",
+          "Josh_Z",
           "寺子屋之鴉",
           "抛个上上签",
           "死变态子涵妈"
@@ -1957,12 +1957,16 @@ function seed(){
       {
         "date": "2026-07-01",
         "people": [
-          "海岛",
+          "乱步",
           "一头kuma在荡秋千",
           "cHAn",
           "redemption",
           "浩哥爱蹲小木屋",
-          "拎拎"
+          "拎拎",
+          "拎拎的朋友A",
+          "拎拎的朋友B",
+          "拎拎的朋友C",
+          "拎拎的朋友D"
         ]
       }
     ],
@@ -1984,8 +1988,8 @@ function seed(){
       {
         "date": "2026-07-07",
         "people": [
-          "回溯性断裂",
-          "海岛",
+          "回溯性的断裂",
+          "乱步",
           "林三",
           "竹雨",
           "Ryooo",
@@ -2016,9 +2020,9 @@ function seed(){
         "people": [
           "之尤",
           "2d9",
-          "一头kuma在荡秋千",
           "耐热",
-          "困困"
+          "困困",
+          "困困的朋友"
         ]
       }
     ],
@@ -2041,15 +2045,18 @@ function seed(){
       {
         "date": "2026-07-14",
         "people": [
-          "海岛",
-          "番茄",
-          "于水水水",
+          "乱步",
+          "朱",
           "Esja",
           "耐热",
           "2d9",
           "yu",
           "浩哥爱蹲小木屋",
-          "竹雨"
+          "浩哥的朋友",
+          "小鹰",
+          "竹雨",
+          "一一",
+          "屋顶上的猫"
         ]
       }
     ],
@@ -2075,10 +2082,10 @@ function seed(){
           "三三得九",
           "Xc.",
           "river",
-          "Coconut",
-          "Harper",
-          "我简直是个圣人",
-          "D"
+          "coconut",
+          "圣人",
+          "D",
+          "Harper"
         ]
       }
     ],
@@ -2101,11 +2108,10 @@ function seed(){
         "date": "2026-07-15",
         "people": [
           "盐井",
-          "🤡",
+          "屋顶上的猫",
           "于水水水",
-          "logos",
-          "Esja",
-          "一头kuma在荡秋千"
+          "Alex",
+          "Esja"
         ]
       }
     ],
@@ -2152,19 +2158,18 @@ function seed(){
       {
         "date": "2026-07-22",
         "people": [
-          "海岛",
-          "Agent47",
+          "乱步",
+          "安静的美人",
           "2d9",
           "庭前东风入",
           "林三",
           "三三得九",
-          "Bittersuite",
-          "🐰",
+          "Bitter",
+          "兔子",
           "盐井",
           "Esja",
           "火冋火冋",
-          "于水水水",
-          "安静的美人"
+          "于水水水"
         ]
       }
     ],
@@ -2186,21 +2191,21 @@ function seed(){
       {
         "date": "2026-07-31",
         "people": [
-          "海岛",
+          "乱步",
           "Ryooo",
           "火山琉璃",
           "林三",
           "Esja",
-          "拎拎",
-          "卡斯托普",
+          "请问你有铅笔吗",
           "于水水水",
           "加一个蛋",
-          "🐰",
-          "Harper",
           "火冋火冋",
-          "常享晚",
+          "mook",
+          "Harper",
+          "兔子",
+          "常亭晚",
           "river",
-          "mook"
+          "拎拎"
         ]
       }
     ],
@@ -2220,21 +2225,21 @@ function seed(){
       {
         "date": "2026-07-31",
         "people": [
-          "道长",
+          "小鹰",
           "Colin",
-          "shell",
           "Josh_Z",
           "D",
-          "朝阳",
-          "🌍🌍🌍",
           "安静的美人",
           "浩哥爱蹲小木屋",
-          "Coconut",
-          "我简直是个圣人",
+          "圣人",
           "盐井",
+          "一头kuma在荡秋千",
           "Chao",
-          "SHER",
-          "一头kuma在荡秋千"
+          "shell",
+          "Sher",
+          "🌏🌏🌏",
+          "朝阳",
+          "coconut"
         ]
       }
     ],
@@ -2259,7 +2264,8 @@ function seed(){
         "people": [
           "火冋火冋",
           "D",
-          "叶斯安德"
+          "叶斯安德",
+          "D的朋友"
         ]
       }
     ],
@@ -2282,12 +2288,11 @@ function seed(){
         "date": "2026-07-02",
         "people": [
           "于水水水",
-          "林三",
-          "啊圆仔仔",
+          "ayzz",
           "三三得九",
-          "😴",
+          "屋顶上的猫",
           "卜",
-          "Agent47"
+          "安静的美人"
         ]
       }
     ],
@@ -2307,11 +2312,12 @@ function seed(){
       {
         "date": "2026-08-11",
         "people": [
-          "回溯性断裂",
-          "😴",
+          "回溯性的断裂",
+          "屋顶上的猫",
           "2d9",
-          "ト",
-          "大梦一场大胖子",
+          "Harper",
+          "卜",
+          "大梦",
           "Ryooo",
           "一一"
         ]
@@ -2338,7 +2344,7 @@ function seed(){
           "2d9",
           "祝央苔",
           "残花",
-          "菜菜菜菜",
+          "菜菜",
           "拎拎",
           "布吉岛"
         ]
@@ -2363,7 +2369,7 @@ function seed(){
           "17",
           "水镜",
           "林三",
-          "畔畔",
+          "咩咩",
           "Ryooo",
           "回溯性的断裂",
           "不吃香菜",
@@ -2391,7 +2397,7 @@ function seed(){
           "于水水水",
           "林三",
           "子衿",
-          "Bittersuite",
+          "Bitter",
           "ZERO"
         ]
       }
@@ -2426,9 +2432,9 @@ function seed(){
         "date": "2026-09-07",
         "people": [
           "Ryooo",
-          "Bittersuite",
+          "Bitter",
           "Chao",
-          "🐰",
+          "兔子",
           "耐热",
           "火山琉璃",
           "子衿",
@@ -2437,7 +2443,7 @@ function seed(){
           "三三得九",
           "叶斯安德",
           "2d9",
-          "🥚"
+          "西红柿"
         ]
       }
     ],
@@ -2457,13 +2463,13 @@ function seed(){
       {
         "date": "2026-09-13",
         "people": [
-        "2d9",
-        "🐰",
-        "安静的美人",
-        "之尤",
-        "林三",
-        "123"
-      ]
+          "2d9",
+          "兔子",
+          "西红柿",
+          "之尤",
+          "林三",
+          "123"
+        ]
       }
     ],
     "cast": []
@@ -2495,16 +2501,16 @@ function seed(){
       {
         "date": "2026-09-10",
         "people": [
-          "Bittersuite",
+          "Bitter",
           "耐热",
-          "2d9",
-          "安静电影型17",
-          "Alex_",
+          "Josh_Z",
+          "17",
+          "Alex",
           "ice",
           "子衿",
           "Esja",
           "ayzz",
-          "海岛",
+          "乱步",
           "水镜",
           "卜"
         ]
@@ -2528,7 +2534,7 @@ function seed(){
         "people": [
           "shell",
           "Robert_Gong",
-          "周旭威",
+          "周周周",
           "水镜"
         ]
       }
@@ -2553,17 +2559,17 @@ function seed(){
           "子衿",
           "D",
           "拎拎",
-          "兔子",
-          "Esja",
-          "Coconut",
-          "Alex_",
           "叶斯安德",
           "三三得九",
-          "Bittersuite",
+          "Bitter",
           "2d9",
+          "兔子",
           "火冋火冋",
           "卜",
-          "西西红柿🍅",
+          "Esja",
+          "coconut",
+          "Alex",
+          "西红柿",
           "温蒂"
         ]
       }
@@ -2717,7 +2723,16 @@ function seed(){
     "watches": [
       {
         "date": "2026-09-08",
-        "people": ["浩哥爱蹲小木屋", "Esja", "Pineasea", "渔子", "Bittersuite", "三三得九", "于水水水", "安静电影型17"]
+        "people": [
+          "浩哥爱蹲小木屋",
+          "Esja",
+          "pineisea",
+          "渔子",
+          "Bitter",
+          "三三得九",
+          "于水水水",
+          "17"
+        ]
       }
     ],
     "cast": [
@@ -2740,7 +2755,11 @@ function seed(){
     "watches": [
       {
         "date": "2026-09-12",
-        "people": ["安静的美人", "阿来", "Josh_Z"]
+        "people": [
+          "安静的美人",
+          "阿来",
+          "Josh_Z"
+        ]
       }
     ],
     "cast": [
@@ -2770,9 +2789,9 @@ function seed(){
           "李子",
           "拎拎",
           "水镜",
-          "Laussane",
+          "Lausanne",
           "叶斯安德",
-          "群友的朋友"
+          "某群友的朋友"
         ]
       }
     ],
@@ -2798,12 +2817,12 @@ function seed(){
         "people": [
           "水镜",
           "coconut",
-          "Bittersuite",
+          "Bitter",
           "小希",
           "浩哥爱蹲小木屋",
           "ZERO",
           "叶斯安德",
-          "番茄"
+          "朱"
         ]
       }
     ],
@@ -2862,7 +2881,7 @@ function seed(){
           "D",
           "困困",
           "盐井",
-          "Bittersuite",
+          "Bitter",
           "兔子",
           "林三",
           "2d9"
@@ -2890,7 +2909,7 @@ function seed(){
         "date": "2026-09-17",
         "people": [
           "安静的美人",
-          "Bittersuite",
+          "Bitter",
           "橙色干脆面",
           "拎拎"
         ]
@@ -2916,7 +2935,7 @@ function seed(){
       {
         "date": "2026-09-18",
         "people": [
-          "Bittersuite",
+          "Bitter",
           "D",
           "2d9",
           "Esja",
@@ -2950,8 +2969,7 @@ function seed(){
         "date": "2026-09-18",
         "people": [
           "水镜",
-          "coconut",
-          "123"
+          "coconut"
         ]
       }
     ],
@@ -2976,7 +2994,7 @@ function seed(){
         "date": "2026-09-19",
         "people": [
           "拎拎",
-          "Bittersuite",
+          "Bitter",
           "三三得九"
         ]
       }
@@ -3001,8 +3019,8 @@ function seed(){
       {
         "date": "2026-09-20",
         "people": [
-          "安静的美人",
-          "子衿"
+          "子衿",
+          "安静的美人"
         ]
       }
     ],
@@ -3055,7 +3073,7 @@ function seed(){
         "people": [
           "耐热",
           "Zemthem",
-          "番茄"
+          "朱"
         ]
       }
     ],
@@ -3075,7 +3093,17 @@ function seed(){
     "tags": "剧情 · 战争",
     "poster": "",
     "synopsis": "对越自卫反击战前夕，高干子弟赵蒙生被母亲设法调离前线，连长梁三喜与炮排长靳开来却已做好牺牲的准备。战斗打响，一个个鲜活的名字倒在阵地前，留下的是欠账单、军功章与一位位母亲的眼泪。谢晋以直面现实的勇气，把战争的代价与普通人的尊严一一摊开。",
-    "watches": [],
+    "watches": [
+      {
+        "date": "2026-09-21",
+        "people": [
+          "拎拎",
+          "冬日的西瓜",
+          "Hayas",
+          "石头三记"
+        ]
+      }
+    ],
     "cast": [
       "吕晓禾",
       "唐国强",
@@ -3092,7 +3120,21 @@ function seed(){
     "tags": "恐怖 · 剧情",
     "poster": "",
     "synopsis": "一位女导演受邀重启 1980 年代的砍杀片 IP《瘴气营地》，她执意找到当年出演「最后女孩」便从此息影的女演员比利·普雷斯利，两人在废弃营地里一起重看原版。停电之后，故事滑向欲望、创伤与谵妄的深渊。申布伦把砍杀片拆开摊在桌上，一边指出其中的性别政治，一边承认自己就是爱这个脏东西。戛纳一种关注单元开幕片、酷儿金棕榈得主。",
-    "watches": [],
+    "watches": [
+      {
+        "date": "2026-09-21",
+        "people": [
+          "耐热",
+          "李子",
+          "橙色干脆面",
+          "于水水水",
+          "yu",
+          "渔子",
+          "安静的美人",
+          "祝央苔"
+        ]
+      }
+    ],
     "cast": [
       "Sasha Calle",
       "Bilal Hasna",
@@ -3109,7 +3151,16 @@ function seed(){
     "tags": "剧情 · 爱情 · 犯罪",
     "poster": "",
     "synopsis": "刑警西佳敬的女儿早年夭折，妻子又身患白血病。搭档堀部替他出勤而瘫痪，后辈田中在抓捕中丧生，愧疚与高利贷一起压得他喘不过气。他辞职、抢银行、陪妻子踏上一次没有归途的旅行。北野武自导自演，以大量静默的凝视与久石让的配乐，把暴力与温柔画成一朵朵绽放的花火，拿下威尼斯金狮奖。",
-    "watches": [],
+    "watches": [
+      {
+        "date": "2026-09-22",
+        "people": [
+          "D",
+          "子衿",
+          "周周周"
+        ]
+      }
+    ],
     "cast": [
       "北野武",
       "岸本加世子",
@@ -3143,7 +3194,18 @@ function seed(){
     "tags": "科幻 · 剧情 · 黑白 · 默片",
     "poster": "",
     "synopsis": "未来都市被分为地上与地下两层：统治者住在花园般的高楼，劳工则在地底终日操作机器。实业家之子弗雷德森下到地底，爱上传道的少女玛丽亚。他的父亲请发明家造出一个与玛丽亚容貌相同的机器人，煽动工人暴动。弗里茨·朗以震撼的构图与设计，为之后近百年的科幻电影立下原型。",
-    "watches": [],
+    "watches": [
+      {
+        "date": "2026-09-23",
+        "people": [
+          "2d9",
+          "西红柿",
+          "水镜",
+          "大梦",
+          "拎拎"
+        ]
+      }
+    ],
     "cast": [
       "布里吉特·赫尔姆",
       "阿尔弗雷德·阿贝尔",
@@ -3160,7 +3222,20 @@ function seed(){
     "tags": "剧情 · 家庭",
     "poster": "",
     "synopsis": "镰仓的老宅里住着三姐妹，父亲的葬礼上，她们遇见了同父异母的小妹铃，并把她接来同住。梅子酒、沙丁鱼吐司、庭院里的绣球花，一年四季在家里流转。是枝裕和以温和的日常，让四段各自残缺的人生彼此缝合——所谓家人，是一起吃饭、一起等待花开的人。",
-    "watches": [],
+    "watches": [
+      {
+        "date": "2026-09-23",
+        "people": [
+          "D",
+          "shell",
+          "子衿",
+          "Chao",
+          "之尤",
+          "ayzz",
+          "安静的美人"
+        ]
+      }
+    ],
     "cast": [
       "绫濑遥",
       "长泽雅美",
@@ -3269,7 +3344,7 @@ function seed(){
       "河原さぶ"
     ]
   }
-];
+  ];
 }
 
 /* ---------- 持久化 ---------- */
@@ -3465,6 +3540,19 @@ const canon = name => {
   return n;
 };
 
+/* 占位名识别：按最新口径（2026-09-25 确认），「xx朋友」类昵称按表格如实计入统计，
+   不再从人次 / 名单 / 关系图中排除；此处仅过滤空名。 */
+const PHANTOM_RE = /(?!)/;
+function isPhantom(name){
+  const n = (name == null ? '' : ('' + name).trim());
+  return !n;
+}
+/* 取一场的观影者（已归一，含「xx朋友」类昵称）。所有「人次/名单/关系图」统计统一走它。 */
+function realPeople(w){
+  if(!w || !w.people) return [];
+  return w.people.filter(p => !isPhantom(p)).map(canon);
+}
+
 /* 中文名首字母（声母）轻量映射：覆盖档案中已出现的高频字，非字典级。
    未命中中文统一归到「#」组。英文名/数字直接取首字符。 */
 const PINYIN_MAP = {
@@ -3499,7 +3587,7 @@ function allWatchers(){
   const set = new Set();
   films.forEach(f => f.watches.forEach(w => w.people.forEach(p => {
     const n = canon(stripFunc(p));
-    if(n) set.add(n);
+    if(n && !isPhantom(n)) set.add(n);
   })));
   return [...set];
 }
@@ -4343,7 +4431,7 @@ function assignFilmNumber(f){
   if(sameTitle){
     const base = baseOf(sameTitle.id);
     f.id = String(base) + nextSuffixFor(base);
-  } else if(f.watches.some(w => w.people.length > 0)){
+  } else if(f.watches.some(w => realPeople(w).length > 0)){
     f.id = String(nextFilmNumber());
   }
 }
@@ -4455,13 +4543,16 @@ const BADGE_DESCS = {
   hardwin:    '精品男大（定向）',
   recorder:   '观影记录员（定向）',
   jzking:     '林三本人',
-  jz:         '与林三共同观影 ≥1 次'
+  jz:         '与林三共同观影 ≥1 次',
+  mzking:     '安静的美人本人'
 };
 function badgeDesc(k){
   if(BADGE_DEFS[k] && BADGE_DEFS[k].desc) return BADGE_DEFS[k].desc;
   if(BADGE_DESCS[k]) return BADGE_DESCS[k];
   const jz = /^jz\+\d+$/.exec(k);
   if(jz) return '与林三共同观影 ≥' + jz[0].slice(3) + ' 次';
+  const mz = /^mz\+\d+$/.exec(k);
+  if(mz) return '与安静的美人共同观影 ≥' + mz[0].slice(3) + ' 次';
   const km = /^king-(\d{4})-(\d{2})$/.exec(k);
   if(km) return Number(km[2]) + '月观影场次最多（次月 2 日结算）';
   if(MANUAL_BADGE_DEFS[k]) return '手动授予勋章';
@@ -4478,7 +4569,7 @@ function badgeGrantedDate(name, k){
     let first = null;
     films.forEach(f => f.watches.forEach(w => {
       if(w.date.slice(0,7) !== ym) return;
-      if(!w.people.map(canon).includes(name)) return;
+      if(!realPeople(w).includes(name)) return;
       if(!first || w.date < first) first = w.date;
     }));
     return first;
@@ -4490,8 +4581,21 @@ function badgeGrantedDate(name, k){
     if(name === lin) return null;
     let first = null;
     films.forEach(f => f.watches.forEach(w => {
-      const cs = w.people.map(canon);
+      const cs = realPeople(w);
       if(!cs.includes(name) || !cs.includes(lin)) return;
+      if(!first || w.date < first) first = w.date;
+    }));
+    return first;
+  }
+  /* 美人之醋+x：返回该用户与安静的美人的某次共同观影最早日 */
+  const mz = /^mz\+(\d+)$/.exec(k);
+  if(mz){
+    const mei = canon(MEIREN);
+    if(name === mei) return null;
+    let first = null;
+    films.forEach(f => f.watches.forEach(w => {
+      const cs = realPeople(w);
+      if(!cs.includes(name) || !cs.includes(mei)) return;
       if(!first || w.date < first) first = w.date;
     }));
     return first;
@@ -4502,7 +4606,7 @@ function badgeGrantedDate(name, k){
     if(name === shell) return null;
     let first = null;
     films.forEach(f => f.watches.forEach(w => {
-      const cs = w.people.map(canon);
+      const cs = realPeople(w);
       if(!cs.includes(name) || !cs.includes(shell)) return;
       if(!first || w.date < first) first = w.date;
     }));
@@ -4511,7 +4615,7 @@ function badgeGrantedDate(name, k){
   /* 通用：返回该用户最早一次观影日（适合 club10/club20/shareholder/live/blaze/chao/recorder/hardwin/islandlove/comedian） */
   let first = null;
   films.forEach(f => f.watches.forEach(w => {
-    if(!w.people.map(canon).includes(name)) return;
+    if(!realPeople(w).includes(name)) return;
     if(!first || w.date < first) first = w.date;
   }));
   return first;
@@ -4560,7 +4664,7 @@ function kingMonths(name){
 function hasBlaze(name){
   name = canon(name);
   return films.some(f => f.watches.some(w =>
-    w.people.map(canon).includes(name) && w.people.length > 8));
+    realPeople(w).includes(name) && realPeople(w).length > 8));
 }
 /* 俺也will go：与 Chao 共同观影过至少一次
    注意：canon 仅做别名合并，不归一大小写；故比较时统一 trim+小写，
@@ -4570,7 +4674,7 @@ function hasChaoBuddy(name){
   const me = key(canon(name));
   const chao = key(canon('Chao'));
   return films.some(f => f.watches.some(w => {
-    const ps = w.people.map(p => key(canon(p)));
+    const ps = w.people.filter(p=>!isPhantom(p)).map(p => key(canon(p)));
     return ps.includes(me) && ps.includes(chao);
   }));
 }
@@ -4582,7 +4686,7 @@ function hasShellBuddy(name){
   const shell = key(canon('shell'));
   if(me === shell) return false;
   return films.some(f => f.watches.some(w => {
-    const ps = w.people.map(p => key(canon(p)));
+    const ps = w.people.filter(p=>!isPhantom(p)).map(p => key(canon(p)));
     return ps.includes(me) && ps.includes(shell);
   }));
 }
@@ -4595,7 +4699,7 @@ function hasIslandLove(name){
   const me = canon(name);
   return films.some(f => ISLAND_LOVE_FILMS.includes(f.title)
     && f.watches.some(w => ISLAND_LOVE_DATES.includes(w.date)
-      && w.people.map(canon).includes(me)));
+      && realPeople(w).includes(me)));
 }
 /* 崆峒即深柜：观看过 tags 含「同性」「同志」「同性恋」「LGBT」「queer」「gay」等关键词的电影的用户。
    数据源只看已收录的 films（含 FILM_DB 与 seed 已写入的）。电影标签读取兼容中英文，便于后续补录更多相关影片时自动覆盖。 */
@@ -4605,7 +4709,7 @@ function hasClosetBuddy(name){
   return films.some(f => {
     const tag = (f.tags || '').toString();
     if(!CLOSET_TAG_KEYWORDS.some(k => tag.includes(k))) return false;
-    return f.watches.some(w => w.people.map(canon).includes(me));
+    return f.watches.some(w => realPeople(w).includes(me));
   });
 }
 /* ISO 8601 周键：周一为一周起点，跨年按「周四所在年」归属（year-Www）。
@@ -4638,7 +4742,7 @@ function comedyCount(name){
   const set = new Set();
   films.forEach(f => {
     if((f.tags || '').includes('喜剧')){
-      f.watches.forEach(w => { if(w.people.map(canon).includes(me)) set.add(f.title); });
+      f.watches.forEach(w => { if(realPeople(w).includes(me)) set.add(f.title); });
     }
   });
   return set.size;
@@ -4653,8 +4757,23 @@ function lin3CoViewCount(name){
   if(me === lin) return 0;
   let n = 0;
   films.forEach(f => f.watches.forEach(w => {
-    const ps = w.people.map(canon);
+    const ps = realPeople(w);
     if(ps.includes(me) && ps.includes(lin)) n++;
+  }));
+  return n;
+}
+/* 美人之醋体系：与「安静的美人」共同观影的次数。
+   安静的美人 = canon('安静的美人')；统计该用户与安静的美人出现在同一场次（watches）的次数。
+   返回值即为「美人之醋+x」里的 x。 */
+const MEIREN = '安静的美人';
+function meirenCoViewCount(name){
+  const me = canon(name);
+  const mei = canon(MEIREN);
+  if(me === mei) return 0;
+  let n = 0;
+  films.forEach(f => f.watches.forEach(w => {
+    const ps = realPeople(w);
+    if(ps.includes(me) && ps.includes(mei)) n++;
   }));
   return n;
 }
@@ -4664,7 +4783,7 @@ function livesInLiuguang(name){
   name = canon(name);
   const byMonth = {};
   films.forEach(f => f.watches.forEach(w => {
-    if(w.people.map(canon).includes(name)){
+    if(realPeople(w).includes(name)){
       const ym = w.date.slice(0,7);
       (byMonth[ym] = byMonth[ym] || new Set()).add(w.date);
     }
@@ -4708,6 +4827,14 @@ function userBadges(name){
   else {
     const jz = lin3CoViewCount(name);
     if(jz >= 1) got.push('jz+' + jz);
+  }
+  /* 美人之醋体系（定向：安静的美人 及其共同观影者）
+     - 安静的美人本人 → 美人之醋王（mzking）
+     - 与安静的美人共同观影 ≥1 次者 → 美人之醋+x（x 为共同观影次数） */
+  if(name === canon(MEIREN)) got.push('mzking');
+  else {
+    const mz = meirenCoViewCount(name);
+    if(mz >= 1) got.push('mz+' + mz);
   }
   if(INCLUDE_MANUAL) (MANUAL_BADGES[name] || []).forEach(k => got.push(k));
   return got;
@@ -4765,7 +4892,7 @@ function personHistory(name){
   name = canon(name);
   const records = [];
   films.forEach(f => f.watches.forEach(w => {
-    if(w.people.map(canon).includes(name)){
+    if(realPeople(w).includes(name)){
       records.push({film: f, watch: w});
     }
   }));
@@ -4852,7 +4979,7 @@ function home(){
     const cls = `cal-cell ${items.length ? 'cal-has' : ''} ${isToday ? 'cal-today' : ''}`;
     if(items.length){
       const lines = items.map(it => {
-        const n = it.watch.people.length;
+        const n = realPeople(it.watch).length;
         const cnt = n > 0 ? `<div class="cal-count">${n}人</div>` : '';
         const flame = n > 8 ? `<span class="cal-flame" title="大场 · ${n} 人">🔥</span>` : '';
         const lineCls = n > 0 ? 'cal-line' : 'cal-line cal-line-empty';
@@ -4882,6 +5009,7 @@ function home(){
     <div class="cal-weekdays"><span>一</span><span>二</span><span>三</span><span>四</span><span>五</span><span>六</span><span>日</span></div>
     <div class="cal-grid">${cells}</div>
     ${kingCard(y, m+1)}
+    ${monthStatCard(y, m+1)}
   </main>`;
   return wrap(html, false);
 }
@@ -4897,7 +5025,7 @@ function filmsOfPersonInMonth(name, ym){
   name = canon(name);
   const out = [];
   allFilms().forEach(f => f.watches.forEach(w => {
-    if(w.date.slice(0,7) === ym && w.people.map(canon).includes(name)) out.push(f);
+    if(w.date.slice(0,7) === ym && realPeople(w).includes(name)) out.push(f);
   }));
   return out;
 }
@@ -4952,6 +5080,48 @@ function kingHonorTitle(count){
 }
 
 /* 当月观影帝卡片：随当前显示的月份实时变化（翻月即更新） */
+/* ---------- 当月观影统计（影片数 / 人数 / 人次） ----------
+   口径与 check.js 基线保持一致：
+   - 影片：当月有「至少一场且已录入观影者」的影片部数（去重，同片多场不重复计）
+   - 人数：当月参与观影的去重人数（经 canon + stripFunc 归一，"xx朋友"等占位名已排除）
+   - 人次：当月累计观影人次（归一后，同人看多场累计计）
+   空场（0 人）计入场次但不计入影片数，避免把未录入名单的场算作"看过"。 */
+function monthStat(y, monthOneIndexed){
+  const ym = `${y}-${String(monthOneIndexed).padStart(2,'0')}`;
+  const filmIds = new Set();
+  const people = new Set();
+  let visits = 0;
+  allFilms().forEach(f => (f.watches || []).forEach(w => {
+    if(!w.date || w.date.slice(0, 7) !== ym) return;
+    const ps = w.people || [];
+    if(ps.length) filmIds.add(f.id);
+    ps.forEach(p => {
+      const n = canon(stripFunc(p));
+      if(!n) return;
+      people.add(n);
+      visits++;
+    });
+  }));
+  return { films: filmIds.size, people: people.size, visits: visits };
+}
+/* 横向三段统计条：极细竖线分隔，数字用衬线体，标签用无衬线小字 */
+function monthStatCard(y, monthOneIndexed){
+  const s = monthStat(y, monthOneIndexed);
+  const cell = (num, label) =>
+    `<div class="ms-item">
+      <div class="ms-num">${num}</div>
+      <div class="ms-label">${label}</div>
+    </div>`;
+  return `<div class="monthstat">
+    <div class="ms-eyebrow">${monthOneIndexed} 月观影统计</div>
+    <div class="ms-row">
+      ${cell(s.films, '部影片')}
+      ${cell(s.people, '位影迷')}
+      ${cell(s.visits, '人次')}
+    </div>
+  </div>`;
+}
+
 function kingCard(y, monthOneIndexed){
   const k = monthKing(y, monthOneIndexed);
   const ym = `${y}-${String(monthOneIndexed).padStart(2,'0')}`;
@@ -5023,7 +5193,7 @@ function dayDetail(iso){
         <div class="watch-stats">
           <div class="stat"><span class="stat-k">评分</span><span class="stat-v">${esc(f.rating)}</span></div>
           <div class="stat"><span class="stat-k">导演</span><span class="stat-v" style="font-size:14px">${esc(f.director)}</span></div>
-          <div class="stat"><span class="stat-k">参与</span><span class="stat-v">${w.people.length} 人</span></div>
+          <div class="stat"><span class="stat-k">参与</span><span class="stat-v">${realPeople(w).length} 人</span></div>
         </div>
         <div class="watch-tags">${esc(f.tags)}</div>
         <div class="watch-synopsis">${esc(f.synopsis || '—')}</div>
@@ -5161,7 +5331,7 @@ function filmDetail(id){
   const watches = f.watches.slice().sort((a,b)=> b.date.localeCompare(a.date));
   const first = watches[watches.length-1]?.date || '';
   const recent = watches[0]?.date || '';
-  const total = watches.reduce((n,w)=> n + w.people.length, 0);
+  const total = watches.reduce((n,w)=> n + realPeople(w).length, 0);
 
   const castHtml = (f.cast && f.cast.length)
     ? `<div class="detail-cast"><span class="cast-k">主演</span>${f.cast.map(esc).join(' · ')}</div>`
@@ -5199,7 +5369,7 @@ function filmDetail(id){
   watches.forEach(w => {
     html += `<section class="watch watch-weak">
       <div class="watch-date">${fmtDate(w.date)}</div>
-      <div class="watch-count">${w.people.length} 人参与</div>
+      <div class="watch-count">${realPeople(w).length} 人参与</div>
       <div class="watch-people">${nameLinks(w.people)}</div>
     </section>`;
   });
@@ -5270,7 +5440,7 @@ function coViewingRanks(name){
   name = canon(name);
   const counts = new Map();
   films.forEach(f => f.watches.forEach(w => {
-    if(!w.people.map(canon).includes(name)) return;
+    if(!realPeople(w).includes(name)) return;
     w.people.forEach(other => {
       other = canon(other);
       if(other === name) return;
@@ -5310,6 +5480,7 @@ function personDetail(encodedName){
     if(BADGE_DEFS[k] && BADGE_DEFS[k].name) return BADGE_DEFS[k].name;
     if(MANUAL_BADGE_DEFS[k]) return MANUAL_BADGE_DEFS[k];
     if(k === 'jzking') return '鸡爪王';
+    if(k === 'mzking') return '美人之醋王';
     if(k === 'islandlove') return '海岛之爱·周年见证';
     if(k === 'comedian') return '欢乐喜剧人';
     if(k === 'closet') return '崆峒即深柜';
@@ -5321,6 +5492,8 @@ function personDetail(encodedName){
     if(kk) return Number(kk[2]) + '月观影帝';       // 逐月观影帝（x = 获得月份）
     const jz = /^jz\+(\d+)$/.exec(k);
     if(jz) return '鸡爪+' + jz[1];
+    const mz = /^mz\+(\d+)$/.exec(k);
+    if(mz) return '美人之醋+' + mz[1];
     return k;
   }
   /* 勋章样式类：按 key 决定外框/底色。
@@ -5334,6 +5507,7 @@ function personDetail(encodedName){
     if(k.indexOf('king') === 0) return 'badge-king';
     if(k === 'live') return 'badge-live';
     if(k === 'jzking' || /^jz\+\d+$/.test(k)) return 'badge-jz';   // 鸡爪体系：黄色虚线外轮廓
+    if(k === 'mzking' || /^mz\+\d+$/.test(k)) return 'badge-jz';   // 美人之醋体系：复用鸡爪黄色虚线外轮廓
     if(k === 'recorder' || k === 'shareholder') return 'badge-gold';
     if(k === 'snowking') return 'badge-silver';
     if(k === 'islandlove') return 'badge-parallelogram';
@@ -5735,11 +5909,25 @@ function previewBadgeName(k){
   if(BADGE_DEFS[k] && BADGE_DEFS[k].name) return BADGE_DEFS[k].name;
   const km=/^king-(\d{4})-(\d{2})$/.exec(k); if(km) return Number(km[2])+'月观影帝';
   const jz=/^jz\+(\d+)$/.exec(k); if(jz) return '鸡爪+'+jz[1];
-  const map={jzking:'鸡爪王',islandlove:'海岛之爱·周年见证',fullattend:'全勤强',comedian:'欢乐喜剧人',closet:'崆峒即深柜',hardwin:'精品男大',recorder:'观影记录员',snowking:'雪王的凝视',shareholder:'流光精神股东'};
+  const mz=/^mz\+(\d+)$/.exec(k); if(mz) return '美人之醋+'+mz[1];
+  const map={jzking:'鸡爪王',mzking:'美人之醋王',islandlove:'海岛之爱·周年见证',fullattend:'全勤强',comedian:'欢乐喜剧人',closet:'崆峒即深柜',hardwin:'精品男大',recorder:'观影记录员',snowking:'雪王的凝视',shareholder:'流光精神股东'};
   return map[k]||k;
+}
+/* 隐藏页：观影数前三名（按累计观影场次降序，同一场同一人只计一次） */
+function topWatchers(n){
+  const counts = new Map();
+  films.forEach(f => f.watches.forEach(w => {
+    realPeople(w).forEach(p => { counts.set(p, (counts.get(p) || 0) + 1); });
+  }));
+  return [...counts.entries()]
+    .sort((a,b) => b[1]-a[1] || a[0].localeCompare(b[0]))
+    .slice(0, n)
+    .map(([name, count]) => ({name, count}));
 }
 function previewPage(){
   // 隐藏预览页：仅保留「谁和谁最常一起看（可交互）」弦图模块
+  const top3 = topWatchers(3);
+  const top3Html = top3.map((t,i) => `<li><span class="t3-rank">${i+1}</span><span class="t3-name">${esc(t.name)}</span><span class="t3-cnt">${t.count} 场</span></li>`).join('');
   const inner = `<main class="preview">
     <div class="eyebrow">FILM LOG · 内部预览（彩蛋）</div>
 
@@ -5756,6 +5944,12 @@ function previewPage(){
         <div class="panel" id="previewPanel"><h3>关系详情</h3><div class="pmeta">点击左侧任意节点查看</div></div>
       </div>
       <div class="legend" id="previewLegend"></div>
+    </section>
+
+    <section class="top3-sec">
+      <h2>观影数前三名</h2>
+      <p class="top3-tip">按累计观影场次统计，同一场同一人只计一次。</p>
+      <ol class="top3-list">${top3Html}</ol>
     </section>
 
     <section class="common-sec">
@@ -5792,7 +5986,7 @@ function initPreviewGraph(){
   const MINW=2;                       // 进入统计的边的最低共看次数
   const pair={};
   films.forEach(f=>f.watches.forEach(w=>{
-    const ps=[...new Set(w.people.map(canon))];
+    const ps=[...new Set(realPeople(w))];
     for(let i=0;i<ps.length;i++)for(let j=i+1;j<ps.length;j++){
       const a=ps[i],b=ps[j],k=a<b?a+'|'+b:b+'|'+a; pair[k]=(pair[k]||0)+1;
     }
@@ -5899,7 +6093,7 @@ function runCommon(){
   if(a === b){ box.innerHTML = '<div class="empty">两位观影者相同（'+esc(a)+'），请选择不同用户</div>'; return; }
   const rows = [];
   films.forEach(f => f.watches.forEach(w => {
-    const cs = w.people.map(p => canon(p));
+    const cs = w.people.filter(p=>!isPhantom(p)).map(canon);
     if(cs.includes(a) && cs.includes(b)) rows.push({ id:f.id, title:f.title, date:w.date });
   }));
   rows.sort((x,y) => x.date < y.date ? -1 : x.date > y.date ? 1 : 0);
@@ -6077,7 +6271,7 @@ function openAddViewer(filmId){
   const f = films.find(x => x.id == filmId);
   if(!f){ return; }
   const dateOpts = f.watches.map((w,i) =>
-    `<option value="${i}">${fmtDate(w.date)}（${w.people.length} 人）</option>`).join('');
+    `<option value="${i}">${fmtDate(w.date)}（${realPeople(w).length} 人）</option>`).join('');
   const overlay = document.createElement('div');
   overlay.className = 'sg-overlay';
   overlay.innerHTML = `
@@ -6167,4 +6361,4 @@ function openAddViewer(filmId){
   });
 })();
 
-window.__FILMLOG_BUILD__ = '20260921002921';
+window.__FILMLOG_BUILD__ = '20260926000110';
